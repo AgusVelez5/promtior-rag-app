@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Embeddings
+backend/data/vectorstore/*
