@@ -48,3 +48,5 @@ The final system is a fully working RAG chatbot that:
 - Provides a simple React UI
 
 The architecture is intentionally simple but follows production best practices (in general).
+
+![Architecture](Promtior.png)
